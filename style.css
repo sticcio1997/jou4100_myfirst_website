@@ -1,0 +1,10 @@
+img {
+    max-width: 600px;
+}
+.intropara {
+    Font-size: 14px;
+    Color: red;
+}
+abbr {
+    display: inline;
+}
